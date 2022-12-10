@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="app_title">cadastro de usuários</string>
+    <string name="login_title">login</string>
+    <string name="nick_hint">nick</string>
+    <string name="senha_hint">senha</string>
+    <string name="login_button">entrar</string>
+    <string name="cadastrar_message">ainda não tem conta? <u><b>cadastre-se</b></u></string>
+    <string name="cadastro_title">cadastro</string>
+    <string name="nome_hint">nome</string>
+    <string name="telefone_hint">telefone</string>
+    <string name="confirmar_senha_hint">confirmar senha</string>
+    <string name="cadastrar_button">enviar</string>
+    <string name="hint_masc">masculino</string>
+    <string name="hint_fem">feminino</string>
+    <string name="hint_nao_bin">não binárie</string>
+    <string name="hint_gen_fluido">gênero flúido</string>
+    <string name="idade_hint">idade</string>
+    <string name="remover_text">remover</string>
+    <string name="alterar_text">alterar</string>
+    <string name="cadastro_sucesso">cadastro realizado com sucesso</string>
+    <string name="adm_title">administrador</string>
+    <string name="usuario_title">usuários</string>
+    <string-array name="ufs">
+        <item>...</item>
+        <item>SP</item>
+        <item>BA</item>
+        <item>RS</item>
+        <item>PR</item>
+        <item>CE</item>
+    </string-array>
+</resources>
